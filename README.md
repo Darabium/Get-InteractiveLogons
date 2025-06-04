@@ -25,3 +25,4 @@ With this script, all you need to do is have CMD access to the target AD, then y
 
 -Even runs on Windows 10 and Windows 11 (for local testing)
 
+(In addition to Red Team work, it is also useful for network administrators for reporting.)
