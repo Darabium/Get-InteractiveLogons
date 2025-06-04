@@ -9,6 +9,10 @@ With this script, all you need to do is have CMD access to the target AD, then y
 
 *Not detectable in SOC and intrusion detection systems
 
+*Must be run on a server with Administrator access.
+
+*If you run it on a client, you will only see logins from that machine.
+
 *Supported operating systems:
 
 -Windows Server 2012 / 2012 R2
@@ -21,6 +25,3 @@ With this script, all you need to do is have CMD access to the target AD, then y
 
 -Even runs on Windows 10 and Windows 11 (for local testing)
 
-*Must be run on a server with Administrator access.
-
-*If you run it on a client, you will only see logins from that machine.
